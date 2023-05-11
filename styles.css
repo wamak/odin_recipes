@@ -1,0 +1,74 @@
+/*
+Color Scheme 
+Main Blue #293b4e
+Accent Gold #f2daa6
+Font Gold #c49e4e
+*/
+
+.contents {
+    background-color: #334961;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+body {
+    background-color: #293b4e;
+}
+
+.title {
+    color: #f2daa6;
+    font-size: 100px;
+}
+
+.links {
+    list-style-type: none;
+    font-size: 30px;
+    padding-bottom: 10px;
+    color: #f2daa6
+}
+
+.recipe-content {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.waffle-img {
+    height: 300px;
+    width: 500px;
+}
+
+.toast-img {
+    height: 400px;
+    width: 400px;
+}
+
+.recipe-title {
+    color: #f2daa6;
+}
+
+.recipe-description {
+    color: #c49e4e;
+}
+
+.recipe-ingredients {
+    color: #f2daa6;
+}
+
+.recipe-ingredient-list {
+    color: #c49e4e;
+}
+
+.recipe-directions {
+    color: #f2daa6;
+}
+
+.recipe-direction-list {
+    color: #c49e4e;
+}
+
+.recipe-homepage {
+    font-size: 20px;
+    color: #c49e4e
+}
