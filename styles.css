@@ -13,6 +13,13 @@ Font Gold #c49e4e
     text-align: center;
 }
 
+.title-description {
+    color: #c49e4e;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px;
+}
+
 body {
     background-color: #293b4e;
 }
@@ -20,13 +27,17 @@ body {
 .title {
     color: #f2daa6;
     font-size: 100px;
+    text-decoration: underline;
 }
 
 .links {
     list-style-type: none;
     font-size: 30px;
     padding-bottom: 10px;
-    color: #f2daa6
+    color: #f2daa6;
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-bottom: 20px;
 }
 
 .recipe-content {
@@ -71,4 +82,35 @@ body {
 .recipe-homepage {
     font-size: 20px;
     color: #c49e4e
+}
+
+a.nav-link:link
+{
+    color: #c49e4e;
+    text-decoration: none;
+}
+a.nav-link:visited
+{
+    color: #c49e4e;
+    text-decoration: none;
+}
+a.nav-link:hover
+{
+    color: #c49e4e;
+    text-decoration: none;
+}
+a.nav-link:active
+{
+    color: #c49e4e;
+    text-decoration: none;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.credit {
+    color: #c49e4e;
+    font-size: 14px;
 }
